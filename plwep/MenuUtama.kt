@@ -32,13 +32,13 @@ class MenuUtama : AppCompatActivity(), NavigationView.OnNavigationItemSelectedLi
         val toggle : ActionBarDrawerToggle =  ActionBarDrawerToggle(this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close)
         drawer.addDrawerListener(toggle)
         toggle.syncState()
-
+        // Drawer Awal yang kebuka
         if(savedInstanceState == null) {
             supportFragmentManager.beginTransaction().replace(R.id.fragment_container, BerandaFragment()).commit()
             navigationview.setCheckedItem(R.id.nav_beranda)
         }
     }
-
+       // Menu Drawer
     override fun onNavigationItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
             R.id.nav_beranda -> {
@@ -51,7 +51,7 @@ class MenuUtama : AppCompatActivity(), NavigationView.OnNavigationItemSelectedLi
         drawer.closeDrawer(GravityCompat.START)
         return true
     }
-
+        // Ketika di back gak langsung close aplikasinya
     override fun onBackPressed() {
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START)
