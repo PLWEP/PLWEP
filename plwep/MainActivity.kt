@@ -1,3 +1,5 @@
+// Login Activity
+
 package com.example.plwep
 
 import android.content.Intent
@@ -24,12 +26,14 @@ class MainActivity : AppCompatActivity() {
         login.setOnClickListener {
             val user = usernama.text.toString()
             val pass = password.text.toString()
-
+            
+            // Toast Kalau user sama pass kosong
             if(user.isEmpty()&&pass.isEmpty()) {
                 Toast.makeText(this, "Masukan username dan password!!", Toast.LENGTH_SHORT).show()
             }
 
             if(user.isNotEmpty()&&pass.isNotEmpty()) {
+                // Intent ke Activity Utama
                 val intent = Intent(this,MenuUtama::class.java)
                 intent.putExtra("user", user)
                 startActivity(intent)
