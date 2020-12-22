@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PLWEP</string>
+    <string name="Login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="PLWEP">Permana Langgeng WEP</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
