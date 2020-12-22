@@ -1,3 +1,5 @@
+// Drawer Beranda (yang awal langsung kebuka)
+
 package com.example.plwep
 
 import android.os.Bundle
