@@ -1,3 +1,5 @@
+// drawer matkul (yang berisi recycleview)
+
 package com.example.plwep
 
 import android.os.Bundle
@@ -18,7 +20,8 @@ class MatkulFragment () : Fragment() {
 
     ): View? {
         val view : View = inflater.inflate(R.layout.fragment_matkul, container, false)
-
+        
+        // Buat nampilin recycle view
         val recyclerView : RecyclerView = view.findViewById(R.id.rv_language)
         recyclerView.layoutManager = LinearLayoutManager(activity)
         val list : ArrayList<Language> = arrayListOf()
