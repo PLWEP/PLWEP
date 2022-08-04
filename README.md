@@ -7,7 +7,6 @@
   <a href="https://github.com/PLWEP">
     <img src="https://github-readme-stats.vercel.app/api?username=PLWEP&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PLWEP&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=AdityaKumar28&theme=react-dark" />
   </a>
 </p>
 
