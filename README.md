@@ -3,13 +3,13 @@
 
 # Github Stat
 
-<p align="left">
+<p align="left" width="50%">
   <a href="https://github.com/PLWEP">
     <img src="https://github-readme-stats.vercel.app/api?username=PLWEP&show_icons=true&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
-<p align="right">
+<p align="right" width="50%">
   <a href="https://github.com/PLWEP">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PLWEP&theme=github-dark-blue&hide_border=true" />
   </a>
