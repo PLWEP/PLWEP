@@ -1,5 +1,7 @@
-- 👋 Hi, I’m PLWEP
-- 🌱 I’m currently learning basic coding
+## Hey guys! I am PLWEP
+ 
+- I'm currently learning about Web Development.
+- I like listening to music while coding 
 
 # Github Stat
 
@@ -16,8 +18,3 @@
   </a>
 </p>
 
-    <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PLWEP&layout=compact&langs_count=8&theme=github_dark" width="45%"/> -->
-<!---
-PLWEP/PLWEP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
