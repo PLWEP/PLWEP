@@ -12,11 +12,11 @@
 
 <p align="center">
   <a href="https://github.com/PLWEP">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PLWEP&layout=compact&langs_count=8&theme=dark" width="45%"/>
-    <img src="https://activity-graph.herokuapp.com/graph?username=PLWEP&theme=react-dark" width="45%"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=PLWEP&theme=react-dark"/>
   </a>
 </p>
 
+    <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PLWEP&layout=compact&langs_count=8&theme=github_dark" width="45%"/> -->
 <!---
 PLWEP/PLWEP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
