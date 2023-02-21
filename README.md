@@ -1,7 +1,8 @@
 ## Hey guys! I am PLWEP
  
-- I'm currently learning about Web Development.
-- I like listening to music while coding 
+ - Like to coding, have a complicated relationship with bugs and error 
+ - Currently try to focusing on learning Unity and C# 
+ - have experience in programming multi-platform applications using Flutter, basic web development, and basic 3D game development with Unity
 
 # Github Stat
 
