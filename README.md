@@ -13,9 +13,9 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/PLWEP">
-    <img src="https://activity-graph.herokuapp.com/graph?username=PLWEP&theme=react-dark"/>
-  </a>
-</p>
+
+:email: Find me here
+[![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/permana-langgeng-072287185/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plwep&layout=compact&theme=dark)](https://github.com/PLWEP)
 
