@@ -1,11 +1,13 @@
 ## Hey guys! I am PLWEP
  
  - Like to coding, have a complicated relationship with bugs and error 
- - Currently try to focusing on learning Unity and C# 
+ - Currently try to focusing on learning python and machine learning
  - have experience in programming multi-platform applications using Flutter, basic web development, and basic 3D game development with Unity
 
 Find me here  
-[![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/permana-langgeng-072287185/)
+[![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/permana-langgeng)
+[![](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/permanalwep)
+
 
 # Github Stat
 
