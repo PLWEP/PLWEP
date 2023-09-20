@@ -12,9 +12,8 @@ Find me here
 
 <p align="center">
   <a href="https://github.com/PLWEP">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plwep&layout=compact&theme=dark" width="30%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=PLWEP&show_icons=true&theme=github_dark&hide_border=true" width="30%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PLWEP&theme=github-dark-blue&hide_border=true" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plwep&layout=compact&theme=dark" width="50%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PLWEP&theme=github-dark-blue&hide_border=true" width="50%"/>
   </a>
 </p>
 
