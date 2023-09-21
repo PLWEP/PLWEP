@@ -5,7 +5,7 @@
  - have experience in programming multi-platform applications using Flutter, basic web development, and basic 3D game development with Unity
 
 Find me here  
-[![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/permana-langgeng)
+[![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/permana-langgeng)
 [![](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&labelColor=white)](https://www.kaggle.com/permanalwep)
 
 # Github Stat
