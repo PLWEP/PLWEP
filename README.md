@@ -18,10 +18,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-3085C3?style=flat&logo=flutter)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3085C3?style=flat&logo=python)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-3085C3?style=flat&logo=tensorflow)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-3085C3?style=flat&logo=json)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-3085C3?style=flat&logo=git)&nbsp;
-![Github](https://img.shields.io/badge/-Github-3085C3?style=flat&logo=github)&nbsp;
-![VSCode](https://img.shields.io/badge/-VS%20Code-3085C3?style=flat&logo=visual-studio-code)&nbsp;
 
 ## Find me here  
 [![Linkedin Badge](https://img.shields.io/badge/-Permana%20Langgeng-3085C3?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/permana-langgeng)](https://www.linkedin.com/in/permana-langgeng) 
