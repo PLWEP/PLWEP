@@ -17,12 +17,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-3085C3?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-3085C3?style=flat&logo=flutter)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3085C3?style=flat&logo=python)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-3085C3?style=flat&logo=jupyter)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-3085C3?style=flat&logo=tensorflow)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-3085C3?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-3085C3?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-3085C3?style=flat&logo=express)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-3085C3?style=flat&logo=swift)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-3085C3?style=flat&logo=json)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-3085C3?style=flat&logo=git)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-3085C3?style=flat&logo=github)&nbsp;
