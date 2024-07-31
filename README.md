@@ -1,6 +1,6 @@
 <h1 align="center">Hi Guys !! I'm PLWEP</h1>
 <p align="center">Have a complicated relationship with bugs and error</p>
-<p align="center">Currently try to focusing on learning python and machine learning</p>
+<p align="center">Focusing on Flutter for mobile app and python for machine learning</p>
 <hr />
 
 ## GITHUB STATS
