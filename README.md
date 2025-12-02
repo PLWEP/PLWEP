@@ -21,12 +21,7 @@
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-3085C3?style=flat&logo=tensorflow)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-3085C3?style=flat&logo=git)&nbsp;
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=009688&height=250&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I%20Build%20Bridges%20Between%20ERP%20Systems%20%26%20Modern%20Tech&descAlignY=60&descAlign=50" alt="Header" />
-</div>
-
 ---
-
 
 ### 🚀 Current Focus & Projects
 
